@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itiveings.github.io/sitemap
+Sitemap: https://itiveings.github.io/app/sitemap
+Sitemap: https://itiveings.github.io/assets/sitemap
+Sitemap: https://itiveings.github.io/css/sitemap
+Sitemap: https://itiveings.github.io/includes/sitemap
+Sitemap: https://itiveings.github.io/item/sitemap
+Sitemap: https://itiveings.github.io/src/sitemap
